@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208462808242",
+    "project_id": "mwl-predictor",
+    "storage_bucket": "mwl-predictor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208462808242:android:4fa3e111c632c79729f5ab",
+        "android_client_info": {
+          "package_name": "com.example.mwl_predictor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9zA91n50xLazsqkS4HwoYui2o1rsMXWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
